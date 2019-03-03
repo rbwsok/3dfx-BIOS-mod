@@ -1,4 +1,4 @@
-# 3dfx BIOS mod (build 03)
+# 3dfx BIOS mod (build 03, build 04)
 
 BIOS for VSA100 chips with setup and overclocking without operation system.
 
